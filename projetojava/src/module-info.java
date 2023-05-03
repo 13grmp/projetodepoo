@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gabbr
+ *
+ */
+module projetojava {
+}
